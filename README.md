@@ -1,5 +1,3 @@
 # antennatracker
-Antenna tracker for RC models 
+Antenna tracker for RC models using 5.8GHz video transmitters
 ----------------------------
-v0.0.0 
-- init repository
